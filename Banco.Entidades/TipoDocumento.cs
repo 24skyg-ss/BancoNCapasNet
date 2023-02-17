@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Banco.Entidades
 {
-    public class Class1
+    internal class TipoDocumento
     {
+        public int ID { get; set; }
+        public string Nombre { get; set; }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Entidades\bin\Debug\Banco.Entidades.dll
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Entidades\bin\Debug\Banco.Entidades.pdb
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.dll
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.pdb

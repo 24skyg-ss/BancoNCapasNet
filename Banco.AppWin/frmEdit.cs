@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Banco.AppWin
 {
-    public partial class Form1 : Form
+    public partial class frmEdit : Form
     {
-        public Form1()
+        public frmEdit()
         {
             InitializeComponent();
+        }
+
+        private void aceptarDatos(object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.OK;
         }
     }
 }

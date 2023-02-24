@@ -1,0 +1,11 @@
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\bin\Debug\Banco.Negocio.dll
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\bin\Debug\Banco.Negocio.pdb
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\bin\Debug\Banco.Data.dll
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\bin\Debug\Banco.Entidades.dll
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\bin\Debug\Banco.Data.pdb
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\bin\Debug\Banco.Entidades.pdb
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\obj\Debug\Banco.Negocio.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\obj\Debug\Banco.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\obj\Debug\Banco.Negocio.csproj.CopyComplete
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\obj\Debug\Banco.Negocio.dll
+C:\Users\USER\Downloads\Sebastian - Recursos\Banco\Banco.Negocio\obj\Debug\Banco.Negocio.pdb
